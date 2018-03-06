@@ -12541,11 +12541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/d/GitHub/source/ProgramacaoVisual/WebMvc/WebMvc.csproj",
+      "projectUniqueName": "/mnt/d/GitHub/ProgramacaoVisual/source/ProgramacaoVisual/WebMvc/WebMvc.csproj",
       "projectName": "WebMvc",
-      "projectPath": "/mnt/d/GitHub/source/ProgramacaoVisual/WebMvc/WebMvc.csproj",
+      "projectPath": "/mnt/d/GitHub/ProgramacaoVisual/source/ProgramacaoVisual/WebMvc/WebMvc.csproj",
       "packagesPath": "/home/system/.nuget/packages/",
-      "outputPath": "/mnt/d/GitHub/source/ProgramacaoVisual/WebMvc/obj/",
+      "outputPath": "/mnt/d/GitHub/ProgramacaoVisual/source/ProgramacaoVisual/WebMvc/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

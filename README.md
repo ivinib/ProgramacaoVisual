@@ -22,3 +22,11 @@ cd ..
 dotnet sln ProgramacaoVisual.sln add WebMvc/WebMvc.csproj
 
 git add *
+
+git commit -m "Initial Commit"
+
+git config --global  user.e-mail-"vi_ni_b@hotmail.com"
+
+git config --global  user.name = "Vinicius Augusto Basso"
+
+git push origin master

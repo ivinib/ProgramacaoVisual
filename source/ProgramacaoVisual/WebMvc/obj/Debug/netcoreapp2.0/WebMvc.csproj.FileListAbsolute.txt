@@ -8,3 +8,13 @@
 /mnt/d/GitHub/source/ProgramacaoVisual/WebMvc/obj/Debug/netcoreapp2.0/WebMvc.AssemblyInfo.cs
 /mnt/d/GitHub/source/ProgramacaoVisual/WebMvc/obj/Debug/netcoreapp2.0/WebMvc.dll
 /mnt/d/GitHub/source/ProgramacaoVisual/WebMvc/obj/Debug/netcoreapp2.0/WebMvc.pdb
+/mnt/d/GitHub/ProgramacaoVisual/source/ProgramacaoVisual/WebMvc/obj/Debug/netcoreapp2.0/WebMvc.csproj.CoreCompileInputs.cache
+/mnt/d/GitHub/ProgramacaoVisual/source/ProgramacaoVisual/WebMvc/obj/Debug/netcoreapp2.0/WebMvc.AssemblyInfoInputs.cache
+/mnt/d/GitHub/ProgramacaoVisual/source/ProgramacaoVisual/WebMvc/obj/Debug/netcoreapp2.0/WebMvc.AssemblyInfo.cs
+/mnt/d/GitHub/ProgramacaoVisual/source/ProgramacaoVisual/WebMvc/obj/Debug/netcoreapp2.0/WebMvc.dll
+/mnt/d/GitHub/ProgramacaoVisual/source/ProgramacaoVisual/WebMvc/obj/Debug/netcoreapp2.0/WebMvc.pdb
+/mnt/d/GitHub/ProgramacaoVisual/source/ProgramacaoVisual/WebMvc/bin/Debug/netcoreapp2.0/WebMvc.deps.json
+/mnt/d/GitHub/ProgramacaoVisual/source/ProgramacaoVisual/WebMvc/bin/Debug/netcoreapp2.0/WebMvc.runtimeconfig.json
+/mnt/d/GitHub/ProgramacaoVisual/source/ProgramacaoVisual/WebMvc/bin/Debug/netcoreapp2.0/WebMvc.runtimeconfig.dev.json
+/mnt/d/GitHub/ProgramacaoVisual/source/ProgramacaoVisual/WebMvc/bin/Debug/netcoreapp2.0/WebMvc.dll
+/mnt/d/GitHub/ProgramacaoVisual/source/ProgramacaoVisual/WebMvc/bin/Debug/netcoreapp2.0/WebMvc.pdb
